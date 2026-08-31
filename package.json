@@ -1,0 +1,8 @@
+{
+  "name": "mail-sender-vercel",
+  "version": "1.0.0",
+  "description": "Gmail App Password se mail bhejne wala app - Vercel serverless",
+  "dependencies": {
+    "nodemailer": "^6.9.14"
+  }
+}
